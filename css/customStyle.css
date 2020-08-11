@@ -1,0 +1,26 @@
+.nomtes-icon{
+  height: 150px;
+}
+.nomtes-title{
+  color: white;
+  font-size: 3em;
+  margin-top: 15px;
+  font-weight: 600;
+}
+.nomtes-subtitle{
+  color: white;
+}
+
+.nomtes-info{
+  color: white;
+}
+
+.nomtes-more{
+  background-color: #d53e5e;
+  border-color: #d53e5e;
+}
+.nomtes-more:hover{
+  opacity: 0.6;
+  background-color: #d53e5e;
+  border-color: #d53e5e;
+}
