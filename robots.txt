@@ -1,1 +1,4 @@
-User-Agent: *Disallow:
+User-Agent: *
+Disallow:
+
+Sitemap: https://xbotics7.github.io/sitemap.xml

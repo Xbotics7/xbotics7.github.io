@@ -378,6 +378,7 @@ h6 {
   margin: 0;
   padding: 0;
   list-style: none;
+  height: 48px;
 }
 
 .mobile-nav a {
