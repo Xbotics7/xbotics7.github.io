@@ -504,7 +504,7 @@ h6 {
 }
 
 #about .about-content {
-  padding-top: 40px;
+  padding-top: 0px;
 }
 
 #about .about-content h2 {
@@ -1515,6 +1515,9 @@ h6 {
 
   #faq #faq-list i {
     top: 13px;
+  }
+  #about .about-content{
+    padding-top: 20px;
   }
 }
 
