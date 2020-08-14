@@ -9,6 +9,7 @@
 }
 .nomtes-subtitle{
   color: white;
+  margin-left: 10px;
 }
 
 .nomtes-info{
@@ -16,13 +17,13 @@
 }
 
 .nomtes-more{
-  background-color: #d53e5e;
-  border-color: #d53e5e;
+  background-color: #31ccf9;
+  border-color: #31ccf9;
 }
 .nomtes-more:hover{
   opacity: 0.6;
-  background-color: #d53e5e;
-  border-color: #d53e5e;
+  background-color: #31ccf9;
+  border-color: #31ccf9;
 }
 
 .nomtes-cont{
@@ -33,6 +34,10 @@
   max-height: 150px;
   margin-top: 20px;
   border-radius: 50%;
+}
+
+.imgAndroid{
+  max-height: 20px;
 }
 
 .profileCont{
