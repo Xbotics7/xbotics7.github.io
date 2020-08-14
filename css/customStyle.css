@@ -1,5 +1,16 @@
+.nomtes-main-cont{
+  background-color: #1bb1dc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 10px;
+    box-shadow: 0 0px 20px 1px #0000003b;
+    margin-bottom: 10px;
+    padding-left: 25px;
+}
 .nomtes-icon{
   height: 150px;
+  margin-left: -15px;
+  display: table-cell;
 }
 .nomtes-title{
   color: white;
@@ -9,11 +20,14 @@
 }
 .nomtes-subtitle{
   color: white;
-  margin-left: 10px;
+  vertical-align: top;
+  display: table-cell;
+  padding-left: 10px;
 }
 
 .nomtes-info{
   color: white;
+  margin: 0 0 20px 0;
 }
 
 .nomtes-more{
@@ -37,7 +51,8 @@
 }
 
 .imgAndroid{
-  max-height: 20px;
+  max-height: 22px;
+  display: table-cell;
 }
 
 .profileCont{
