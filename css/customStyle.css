@@ -1,5 +1,5 @@
 .nomtes-main-cont{
-  background-color: #1bb1dc;
+  background-color: #79002d;
     border-radius: 5px;
     padding: 15px;
     margin-top: 10px;
@@ -31,13 +31,13 @@
 }
 
 .nomtes-more{
-  background-color: #31ccf9;
-  border-color: #31ccf9;
+  background-color: #a2053f;
+  border-color: #a2053f;
 }
 .nomtes-more:hover{
   opacity: 0.6;
-  background-color: #31ccf9;
-  border-color: #31ccf9;
+  background-color: #a2053f;
+  border-color: #a2053f;
 }
 
 .nomtes-cont{
