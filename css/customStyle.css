@@ -1,5 +1,16 @@
 .nomtes-main-cont{
-  background-color: #79002d;
+  background-image: linear-gradient(to right, #a2053f, #79002d);
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 10px;
+    box-shadow: 0 0px 20px 1px #0000003b;
+    margin-bottom: 10px;
+    padding-left: 25px;
+    height: 95%;
+}
+
+.nomtes-web-main-cont{
+  background-image: linear-gradient(to right, #559bbb, #1e4e6f);
     border-radius: 5px;
     padding: 15px;
     margin-top: 10px;
@@ -7,6 +18,7 @@
     margin-bottom: 10px;
     padding-left: 25px;
 }
+
 .nomtes-icon{
   height: 150px;
   margin-left: -15px;
@@ -40,8 +52,17 @@
   border-color: #a2053f;
 }
 
+.nomtes-web-more{
+  background-color: #559bbb;
+  border: 0;
+}
+.nomtes-web-more:hover{
+  opacity: 0.6;
+  background-color: #559bbb;
+}
+
 .nomtes-cont{
-  margin: 10px;
+  max-width: 600px;
 }
 
 .imgProfile{
