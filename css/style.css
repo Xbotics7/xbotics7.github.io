@@ -838,7 +838,6 @@ h6 {
 
 #team .member .member-info-content {
   transition: margin 0.2s;
-  height: 40px;
   transition: height 0.4s;
 }
 
